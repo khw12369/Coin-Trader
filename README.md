@@ -5,7 +5,7 @@
 
 📄 [볼린져밴드 Counter-Trend 전략 백테스팅](https://github.com/khw12369/Coin-Trader/blob/main/backtest_BB(180%2C2).ipynb)
 
-📄 [볼린져밴드 Counter-Trend 전략 개요]()
+📄 [볼린져밴드 Counter-Trend 전략 개요](https://github.com/khw12369/Coin-Trader/blob/main/BB(180%2C2)%20Counter-Trend.py)
 
 📄 [마켓메이킹: Spread Ask-Bid with Options]()
 
